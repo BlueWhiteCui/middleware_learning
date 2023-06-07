@@ -2,3 +2,5 @@
 *.iml
 out
 target
+*.0
+logs
